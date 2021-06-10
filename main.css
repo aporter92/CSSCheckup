@@ -1,0 +1,29 @@
+.wrapper{
+    margin: 5px;
+}
+h1{
+    border: 5px solid black;
+}
+.nav{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 250px;
+    background-color: lightgray;
+    border: 3px solid navy;
+}
+#positioning{
+    width: 100%;
+    background-color: lightgreen;
+}
+#positioning h1{
+    text-align: center;
+}
+p{
+    font-family: "Times New Roman", Times, serif;
+}
+.section2{
+    text-align: left;
+    background-color: lightpink;
+    width: 100%;
+}
